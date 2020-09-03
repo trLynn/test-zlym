@@ -10,3 +10,6 @@ Everybody have one strategic.
 test
 
 hello world
+
+
+dev Thu Rein Lynn
